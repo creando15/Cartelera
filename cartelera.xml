@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo>
+    <pelicula>
+        <titulo>El secreto de las abejas</titulo>
+        <trailer>https://www.youtube.com/embed/Gx-V1BXN2pY</trailer>
+        <direccion>Annabel Jankel</direccion>
+        <duracion>105 min</duracion>
+        <nacionalidad>Reino Unido</nacionalidad>
+        <actores>Anna Paquin, Holliday Grainger</actores>
+        <genero>Romance</genero>
+        <sinopsis>En 1950, en un pequeño pueblo británico, la doctora Jean Markham (Anna Paquin) inicia una relación íntima con Lydia (Holliday Grainger), madre soltera de uno de sus pacientes.</sinopsis>
+        <imagen>el-secreto.jpg</imagen>
+    </pelicula>
+    <pelicula>
+        <titulo>El vendedor de tabaco</titulo>
+        <trailer>https://www.youtube.com/embed/20zPdTBTbU0</trailer>
+        <direccion>Nikolas Leyner</direccion>
+        <duracion>119 min</duracion>
+        <nacionalidad>Austria- Alemana</nacionalidad>
+        <actores>Bruno Ganz, Simon Morzé</actores>
+        <genero>Drama</genero>
+        <sinopsis>Viena, 1937, durante la unión de Austria y la Alemania nazi. Un chico de diecisiete años es aprendiz de un vendedor de tabaco, entre cuyos clientes está el médico neurólogo y padre del psicoanálisis Sigmund Freud.</sinopsis>
+        <imagen>el-vendedor.jpg</imagen>
+    </pelicula>
+        <pelicula>
+        <titulo>La espía roja</titulo>
+        <trailer>https://www.youtube.com/embed/icxPeM19V8s</trailer>
+        <direccion>Trevor Nunn</direccion>
+        <duracion>103 min</duracion>
+        <nacionalidad>Reino Unido</nacionalidad>
+        <actores>Judi Dench,Tom Hughes</actores>
+        <genero>Drama</genero>
+        <sinopsis>Joan Stanley (Judi Dench) es una encantadora anciana que jamás ha levantado ningún tipo de sospecha… hasta que una mañana del año 2000 agentes del MI5 la detienen, acusada de proporcionar información a la Rusia comunista. Ha salido a la luz uno de mayores casos de espionaje del KGB y Joan es una de las sospechosas. Durante el interrogatorio Joan vuelve a recordar el año 1938, cuando estudiaba Física en Cambridge y se enamoró de un joven comunista, Leo Galich (Tom Hughes), el mismo que tiempo después, durante la II Guerra Mundial, le puso ante una difícil encrucijada: elegir entre traicionar a su país o salvar al mundo de una catástrofe nuclear. Y es que, trabajando en unas instalaciones de alto secreto dedicadas a la investigación nuclear durante la guerra llega a la conclusión de que el mundo está al borde de una destrucción garantizada, y deberá elegir entre traicionar a su país y a sus seres queridos... o salvarlos. Película basada en la vida de Melita Norwood (Joan Stanley en el film), la espía británica que estuvo más tiempo al servicio de la KGB.</sinopsis>
+        <imagen>la-espia.jpg</imagen>
+    </pelicula>
+    <pelicula>
+        <titulo>La biblioteca de los libros rechazados</titulo>
+        <trailer>https://www.youtube.com/embed/f_MT4QOOpMo</trailer>
+        <direccion>Rémi Bezançon</direccion>
+        <duracion>101 min</duracion>
+        <nacionalidad>Francia</nacionalidad>
+        <actores>Fabrice Luchini, Camille Cottin</actores>
+        <genero>Drama</genero>
+        <sinopsis>Una joven editora descubre una novela magistral escrita por Henri Pick, un pizzero fallecido dos años antes. Según su viuda, a Pick jamás le vio leer un libro y lo único que creía que había escrito en su vida era la lista de la compra. Cuando la novela se convierte en un éxito de ventas, un crítico literario escéptico y obstinado se une a la hija de Pick para desentrañar el misterio.</sinopsis>
+        <imagen>la-biblioteca.jpg</imagen>
+    </pelicula>
+</catalogo>

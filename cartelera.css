@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+/* Contenedor principal: Grid con 2 columnas (películas e info) */
+.contenedor-peliculas {
+    display: grid;
+    grid-template-columns: 2fr 1fr; /* 2 partes para las imágenes, 1 parte para la info */
+    gap: 40px;
+    align-items: start;
+}
+
+/* Grid de películas: 2 columnas, 2 filas */
+#peliculas {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+#peliculas img {
+    width: 100%;
+    cursor: pointer;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+    transition: transform 0.2s;
+}
+
+#peliculas img:hover {
+    transform: scale(1.05);
+}
+
+/* Info de la película */
+#info {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+    text-align: left;
+}
