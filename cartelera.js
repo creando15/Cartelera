@@ -12,15 +12,9 @@ fetch("cartelera.xml")
     for (let i = 0; i < peliculas.length; i++) {
           
       const titulos = peliculas[i].getElementsByTagName("titulo")
+      const titulo = titulos[0]?.textContent || "Título no disponible";
 
-      var titulo = titulos[0]      // <titulo>El espino</titulo>
-      if(titulos[0]){
-        titulo = titulo.textContent
-      }else{
-        titulo = "Titulo no disponible"
-      }
-
-      //const eltitulo = titulos[0][0]?.textContent || "Título no disponible";
+  
 
       const trailerNode = peliculas[i].getElementsByTagName("trailer")[0];
       const trailer = trailerNode ? trailerNode.textContent : "";
